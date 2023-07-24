@@ -129,7 +129,7 @@ For this project, I used the following datasets:
   <li>movies.csv - downloaded from [Kaggle](https://www.kaggle.com/datasets/ashishjangra27/imdb-top-250-movies/). This is a list of IMDb's 250 top-rated movies</li>
   <li>bom.movie_gross.csv - A dataset about movie domestic and gross revenue, obtained from Box Office Mojo</li>
   <li>tn.movie_budgets.csv - A dataset about movie production budgets and gross revenue, obtained from The Numbers</li>
-  <li>BOM_1000_movies_df - scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW/). This is a dataset of 1,000 movies and their box office budgets and worldwide gross revenue</li>
+  <li>BOM_1000_movies_df - scraped from <a href="https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW/" target="_blank" rel="noopener">Box Office Mojo</a>  [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW/). This is a dataset of 1,000 movies and their box office budgets and worldwide gross revenue</li>
 </ol>
 
 ## METHODOLOGY
