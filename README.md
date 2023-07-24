@@ -126,10 +126,10 @@ Microsoft intends to set up a movie studio but they don't have prior experience 
 For this project, I used the following datasets:
 <ol type="i">
   <li>imdb.title.basics.csv - This dataset was obtained from the IMDb database of all movies in 2019. It contains data about movies and the genres where they fit</li>
-  <li>movies.csv - downloaded from [[Kaggle](https://www.kaggle.com/datasets/ashishjangra27/imdb-top-250-movies/)]. This is a list of IMDb's 250 top-rated movies</li>
+  <li>movies.csv - downloaded from  [Kaggle](https://www.kaggle.com/datasets/ashishjangra27/imdb-top-250-movies/). This is a list of IMDb's 250 top-rated movies</li>
   <li>bom.movie_gross.csv - A dataset about movie domestic and gross revenue, obtained from Box Office Mojo</li>
   <li>tn.movie_budgets.csv - A dataset about movie production budgets and gross revenue, obtained from The Numbers</li>
-  <li>BOM_1000_movies_df - scraped from [[Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW/)]. This is a dataset of 1,000 movies and their box office budgets and worldwide gross revenue</li>
+  <li>BOM_1000_movies_df - scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW/). This is a dataset of 1,000 movies and their box office budgets and worldwide gross revenue</li>
 </ol>
 
 ## METHODOLOGY
